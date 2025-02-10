@@ -40,8 +40,8 @@ const Home = () => {
             animate={{ y: 0, opacity: 1 }}
             transition={{ duration: 0.8, delay: 0.5 }}
           >
-            Step into a world where art transcends traditional boundaries. Our virtual ARt gallery
-            brings masterpieces to life in your space through augmented reality.
+            Step into a world where art transcends traditional boundaries. Our virtual Art gallery
+            brings masterpieces to life in your space at your ease.
           </motion.p>
           <motion.div
             className="mt-8 flex space-x-4"

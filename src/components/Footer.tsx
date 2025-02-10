@@ -9,10 +9,10 @@ const Footer = () => {
           <div className="space-y-4">
             <div className="flex items-center space-x-2">
               <Palette className="h-6 w-6 text-indigo-400" />
-              <span className="text-xl font-bold text-white">ARt Gallery</span>
+              <span className="text-xl font-bold text-white">Art Gallery</span>
             </div>
             <p className="text-sm">
-              Experience art in a new dimension through augmented reality.
+              Experience art in a new dimension at your space.
             </p>
           </div>
           
@@ -53,7 +53,7 @@ const Footer = () => {
         </div>
         
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm">
-          <p>&copy; {new Date().getFullYear()} ARt Gallery. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} Art Gallery. All rights reserved.</p>
         </div>
       </div>
     </footer>

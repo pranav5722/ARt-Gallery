@@ -78,7 +78,7 @@ const FeaturedArt = () => {
                     className="inline-flex items-center px-4 py-2 bg-indigo-600 hover:bg-indigo-700 text-white rounded-md transition duration-300"
                   >
                     <Eye className="mr-2 h-4 w-4" />
-                    View in AR
+                    View Art
                   </Link>
                 </div>
               </div>

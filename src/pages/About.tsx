@@ -4,8 +4,8 @@ import { Camera, Palette, Users, Globe, Code, Shield, Zap, Award } from 'lucide-
 const features = [
   {
     icon: <Camera className="w-8 h-8" />,
-    title: "AR Technology",
-    description: "Experience artwork in augmented reality, bringing digital art into your physical space."
+    title: "Advanced Technology",
+    description: "Experience digital art into your physical space."
   },
   {
     icon: <Palette className="w-8 h-8" />,
@@ -14,7 +14,7 @@ const features = [
   },
   {
     icon: <Users className="w-8 h-8" />,
-    title: "Global Reach",
+    title: "Reach",
     description: "Share your work with art enthusiasts and collectors from around the world."
   },
   {

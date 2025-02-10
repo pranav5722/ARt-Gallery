@@ -16,7 +16,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center space-x-2" onClick={closeMenu}>
               <Palette className="h-8 w-8 text-indigo-400" />
-              <span className="text-xl font-bold text-white">ARt Gallery</span>
+              <span className="text-xl font-bold text-white">Art Gallery</span>
             </Link>
           </div>
           <div className="hidden md:flex items-center space-x-8">
